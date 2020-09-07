@@ -1,0 +1,39 @@
+#tugas{
+    border: 1px solid lime;
+    background-color: yellow;
+    opacity: 0.50;
+}
+
+h2{
+    color: darkcyan;
+    border-top: thick double #32a1ce;
+    background-attachment: local, scroll;
+    grid-area: a;
+}
+
+.bawahan {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+    font-family: monospace;
+    letter-spacing: 5px;
+    animation: colorRotate 6s linear 0s infinite;
+  }
+  
+  @keyframes colorRotate {
+    from {
+      color: red;
+    }
+    10% {
+      color: green;
+    }
+    50% {
+      color: blue;
+    }
+    75% {
+      color: cyan;
+    }
+    100% {
+      color: magenta;
+    }
+  }

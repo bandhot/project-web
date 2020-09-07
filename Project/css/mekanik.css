@@ -1,0 +1,31 @@
+#tugas{
+    height: 200px;
+    border:10px solid red;
+    background-color: green;
+    overflow: scroll;
+}
+
+h1{
+    font-size: 50px;
+    color:gold;
+    background-color: green;
+    text-shadow: 10px 10px 10px aqua;
+}
+h2{
+    color:gold;
+    background-color: green;
+    text-shadow: 10px 10px 10px aqua;
+}
+
+#content{
+    font-size: 20px;
+    
+}
+.sumber{
+     text-decoration-skip-ink: 10px;
+    
+}
+
+    
+
+

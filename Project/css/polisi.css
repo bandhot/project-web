@@ -1,0 +1,21 @@
+#tugas {
+	filter: contrast(70%);
+	position: relative;
+	border-left: 90px;	
+}
+.header{
+	color: gray;
+	font-size: 50px;
+	text-shadow: 10px 10px 10px  green;
+}
+h2{
+	color: blue;
+	font-size: 30px;
+	background-color: red;
+	text-shadow: 5px 5px 5px maroon;
+}
+.content{
+			border: 1px solid red;
+		    padding: 20px 50px; 
+		    margin: 15px;
+}

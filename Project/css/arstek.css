@@ -1,0 +1,24 @@
+#tugas{
+    background: linear-gradient(red, cyan, navy, lime);
+}
+
+h2{
+    font-style: italic;
+    color: maroon;
+    font-size: 30px;
+    background-color: cyan;
+    
+}
+
+.sad{
+    font-size: 70px;
+    text-shadow: 5px 5px 10px magenta;
+}
+
+.intel{
+    border: 2px solid black;
+}
+
+h1{
+    font-size: 50px;
+}
